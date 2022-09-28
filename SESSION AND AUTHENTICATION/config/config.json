@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "authCookieName": "auth_cookie",
+    "authHeaderName": "auth",
+    "jwtSecret": "secret",
+    "saltRounds": 10
+    
+}
